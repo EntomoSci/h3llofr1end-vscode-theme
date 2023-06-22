@@ -9,6 +9,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release
 
+## [0.1.1] - 2023-06-22
+
+### Fixed
+
+- Background/foreground terminal cursor colors.
+- Blue borders on focused sidebar items.
+- Too low constrast on activity bar icons.
+
 ## [0.1.0] - 2023-06-22
 
 ### Added
