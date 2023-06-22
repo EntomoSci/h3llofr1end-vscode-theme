@@ -1,0 +1,21 @@
+{
+  "name": "h3llofr1end",
+  "displayName": "h3llofr1end",
+  "description": "An uncomfortably accurate VSCode theme inspired on the terminal preferences of Elliot Alderson.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "h3llofr1end",
+        "uiTheme": "vs-dark",
+        "path": "./themes/h3llofr1end-color-theme.json"
+      }
+    ]
+  }
+}
