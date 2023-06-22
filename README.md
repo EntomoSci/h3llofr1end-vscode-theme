@@ -11,3 +11,14 @@ Due to Azure Devops' new account creation requisites (constrained free resources
 2. Install [npm](https://www.npmjs.com/) and `vsce` with `npm install -g @vscode/vsce` if you don't have it.
 3. Generate the *.vsix* file by executing `vsce package` command from this folder.
 4. From a terminal execute `code --install-extension <path-to-vsix-file>` or from VSCode's command palette "Extension: Install from VSIX..." and select the *.vsix* file (more info [here](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix)).
+
+## Additional Customizations
+
+### Elliot's Font familiy
+
+1. Download [Hack](https://sourcefoundry.org/hack/) font and install it.
+2. Open your *settings.json* with "Preferences: Open User Settings (JSON)" from the command palette and add these keys:
+```json
+"editor.fontFamily": "Hack, Consolas, 'Courier New', monospace",  
+"terminal.integrated.fontFamily": "Hack, Consolas, 'Courier New', monospace",
+```
