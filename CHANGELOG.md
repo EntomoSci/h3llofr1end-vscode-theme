@@ -9,6 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release
 
+## [0.1.2] - 2023-06-22
+
+### Fixed
+
+- Too light activity/side bar borders.
+- Too light editor cursor line borders.
+
 ## [0.1.1] - 2023-06-22
 
 ### Fixed
