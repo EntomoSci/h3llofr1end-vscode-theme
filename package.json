@@ -3,6 +3,10 @@
   "displayName": "h3llofr1end",
   "description": "An uncomfortably accurate VSCode theme inspired on the terminal preferences of Elliot Alderson.",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PascalSalvador/h3llofr1end-vscode-theme"
+  },
   "engines": {
     "vscode": "^1.79.0"
   },
